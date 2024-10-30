@@ -1,4 +1,4 @@
-# Projeto_Airlink
+# Projeto Airlink
 
 Este projeto implementa uma API para controle do ar-condicionado através de requisições HTTP. Você pode ligar, desligar e verificar o status do ar-condicionado.
 
