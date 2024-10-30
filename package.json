@@ -1,16 +1,19 @@
 {
   "name": "projeto_airlink_api",
   "version": "1.0.0",
+  "description": "API para controle do ar-condicionado via ESP8266",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["api", "ar-condicionado", "esp8266"],
+  "author": "Iury Almeida",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "express": "^4.21.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
   }
 }
